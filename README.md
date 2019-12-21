@@ -32,7 +32,7 @@ First, prepare your own dataset or download our synthetic low-light dataset from
 
 ```shell
 cd main
-python main/train.py
+python train.py
 ```
 
 By default, the code takes the data in the "../dataset/" folder and save weights in the "./models/" folder. Please read the code to see other parameter settings.
