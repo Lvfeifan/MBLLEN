@@ -2,7 +2,7 @@
 
 This is a Keras implementation of “MBLLEN: Low-light Image/Video Enhancement Using CNNs” in BMVC 2018, by [Feifan Lv](https://lvfeifan.github.io/), [Feng Lu](http://shi.buaa.edu.cn/lufeng/), Jianhua Wu and Chongsoon Lim. This page provides more experiments on real low-light images compared with latest methods.
 
-**[Paper](http://bmvc2018.org/contents/papers/0700.pdf) and [Project page](http://phi-ai.org/project/MBLLEN/default.htm)**
+**[Paper](http://bmvc2018.org/contents/papers/0700.pdf) and [Project page](http://phi-ai.buaa.edu.cn/project/MBLLEN/index.htm)**
 
 ![](figs/figure.png)
 
@@ -64,9 +64,6 @@ Our model is comparable with DeepUPE. Notice that, our models are not fine-tuned
 
 ![](figs/Deep.png )
 
-## Video Version
-
-Coming Soon ...
 
 ## Bibtex
 
@@ -83,5 +80,5 @@ If you use this code for your research, please cite our paper.
 
 ## Related Follow-Up Work
 
-Feifan Lv, Yu Li and Feng Lu. Attention-guided Low-light Image Enhancement. arXiv:1908.00682, 2019. **[Paper](https://arxiv.org/abs/1908.00682) and [Project page](http://phi-ai.org/project/AgLLNet/default.htm)**
+Feifan Lv, Yu Li and Feng Lu. Attention Guided Low-light Image Enhancement with a Large Scale Low-light Simulation Dataset. IJCV, 2021. **[Paper](https://arxiv.org/abs/1908.00682) and [Project page](http://phi-ai.buaa.edu.cn/project/AgLLNet/index.htm)**
 
